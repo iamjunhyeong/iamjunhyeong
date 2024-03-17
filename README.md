@@ -24,6 +24,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white)
 
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&loColor=white)
+![Debian](https://img.shields.io/badge/debian-A81D33.svg?&style=for-the-badge&logo=debian&loColor=white)
 
 # 📫 CONTACKTS
 <div>
