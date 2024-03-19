@@ -32,6 +32,9 @@
     <a href="https://www.notion.so/34a474d9d56a420c99ffbd74c8f0a77e?v=f8488adc1d2c43df985ea2bb334d9115">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
+    <a href="https://velog.io/@dodo447/posts">
+        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
+    </a>
     <a href="https://github.com/iamjunhyeong">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
     </a>
