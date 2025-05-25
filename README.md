@@ -1,9 +1,9 @@
 # Park Jun Hyeong 😊😎
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjunhyeong&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=refill447)](https://solved.ac/refill447)
-
 
 
 # 🤓 SKILLS
@@ -27,25 +27,19 @@
 
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&loColor=white)
 ![Debian](https://img.shields.io/badge/debian-A81D33.svg?&style=for-the-badge&logo=debian&loColor=white)
-<div>
-    <a href="https://www.notion.so/34a474d9d56a420c99ffbd74c8f0a77e?v=f8488adc1d2c43df985ea2bb334d9115">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-    <a href="https://github.com/iamjunhyeong">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
-    </a>
-</div>
 
-# 📫 CONTACKTS
+
+# 📫 My Page
 <div>
     <a href="https://velog.io/@dodo447/posts">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
-    <a href="dddodo447@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+    
+   <a href="https://relic-phlox-12d.notion.site/PR-96b1c376e3fa466d9bfa5878dcf63b6e">
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+   </a>
 </div>
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjunhyeong&show_icons=true&theme=radical)
 
