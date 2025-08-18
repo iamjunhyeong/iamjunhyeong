@@ -29,14 +29,14 @@
 - Swagger
 
 
-## 📍 Award
+## 📍 AWARDS
 🥈 기초캡스톤디자인 은상 (2024.06)
 
 🏆 교내 창업경진대회 우수상 (2024.11)
 
 🥉 USC IMSC해커톤 3등 (2025.07)
 
-## 📍 Project
+## 📍 PROJECTS
 📽️ BASH SHELL 구현 (2024.03 - 2024.06)
 
 📽️ POCKET TEACHER (2024.O3 - 2024.06)
@@ -47,7 +47,7 @@
 
 📽️ 2025 KHUTHON (2025.05)
 
-## 📍 Experience
+## 📍 EXPERIENCES
  
 🔥 42 SEOUL (2023.10 - 2025.06)
 
