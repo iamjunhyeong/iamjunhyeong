@@ -17,7 +17,7 @@
   
 #### ⚒️ DevOps
 - Docker, docekr-compose
-- AWS EC2, RDS, S3, NCP
+- AWS EC2, RDS, S3, NCP, Lambda
 - Git Action
   
 #### ⚒️ Collaboration
