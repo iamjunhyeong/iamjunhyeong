@@ -17,12 +17,12 @@
   
 #### ⚒️ DevOps
 - Docker, docekr-compose
-- AWS EC2, RDS, S3, NCP, Lambda
+- AWS EC2, RDS, S3, Lambda, Step Function
 - Git Action
   
 #### ⚒️ Collaboration
 - Git, GitHub
-- Notion, Slcak
+- Notion, Slack, Jira
 - Swagger
 
 #### ⚒️ Exp
