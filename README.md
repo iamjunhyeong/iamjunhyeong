@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
 
-   <a href="https://relic-phlox-12d.notion.site/PR-96b1c376e3fa466d9bfa5878dcf63b6e">
+   <a href="https://relic-phlox-12d.notion.site/pr-pjh">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white">
    </a>
    
