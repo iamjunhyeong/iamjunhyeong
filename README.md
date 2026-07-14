@@ -11,7 +11,6 @@
   - 삼성메디슨   &nbsp;&nbsp;&nbsp;&nbsp;[`Jan 2026 ~ Jun 2026`]
   
 &nbsp;
-  
   ### 🗡️ Award & Project
   -  기룡아밥먹자! &nbsp;&nbsp;&nbsp;&nbsp; [`Sep 2025 ~ Present`]
   -  ICPC Seoul Regional 본선       &nbsp;&nbsp;&nbsp;&nbsp; [`Nov 2025`]
@@ -19,7 +18,8 @@
   -  삼성전자DX 알고리즘 특강 수료   &nbsp;&nbsp;&nbsp;&nbsp; [`Fab 2025`]
   -  ICPC Seoul Regional 본선      &nbsp;&nbsp;&nbsp;&nbsp; [`Nov 2024`]
   -  42 SEOUL     &nbsp;&nbsp;&nbsp;&nbsp; [`Oct 2023 ~ Jun 2025`]
-    
+
+&nbsp;
   ---
   
   ### 🗡️ Skill
